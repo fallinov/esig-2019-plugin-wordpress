@@ -1,12 +1,2 @@
-# esig-2019-plugin-wordpress
-Création d'un 1er plugin WordPress
+# Créer un plugin Wordpress
 
-Test 2233asdfas dfsfd 
-
-## NOUVELLE LIGNE DEPUIS GITHUB
-
-## re nouvelle ligne
-
-## toto et titi
-
-asfdasdfasfd
